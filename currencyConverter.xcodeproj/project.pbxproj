@@ -14,6 +14,8 @@
 		A5239D181EEEA63E0036EE54 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5239D161EEEA63E0036EE54 /* LaunchScreen.storyboard */; };
 		A5239D231EEEA63E0036EE54 /* Currency_converterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5239D221EEEA63E0036EE54 /* Currency_converterTests.swift */; };
 		A5239D2E1EEEA63F0036EE54 /* Currency_converterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5239D2D1EEEA63F0036EE54 /* Currency_converterUITests.swift */; };
+		A5CA851D1EF1D73400508453 /* priroda_peyzazh_listya_listochki_zheltye_tropa_osen_fon_1680x1050.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A5CA851C1EF1D73400508453 /* priroda_peyzazh_listya_listochki_zheltye_tropa_osen_fon_1680x1050.jpg */; };
+		A5CA85211EF1E15600508453 /* noun_953829_cc.png in Resources */ = {isa = PBXBuildFile; fileRef = A5CA85201EF1E15600508453 /* noun_953829_cc.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		A5239D291EEEA63F0036EE54 /* Currency converterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Currency converterUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5239D2D1EEEA63F0036EE54 /* Currency_converterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Currency_converterUITests.swift; sourceTree = "<group>"; };
 		A5239D2F1EEEA63F0036EE54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5CA851C1EF1D73400508453 /* priroda_peyzazh_listya_listochki_zheltye_tropa_osen_fon_1680x1050.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = priroda_peyzazh_listya_listochki_zheltye_tropa_osen_fon_1680x1050.jpg; sourceTree = "<group>"; };
+		A5CA85201EF1E15600508453 /* noun_953829_cc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = noun_953829_cc.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 		A5239D0C1EEEA63E0036EE54 /* Currency converter */ = {
 			isa = PBXGroup;
 			children = (
+				A5CA85201EF1E15600508453 /* noun_953829_cc.png */,
+				A5CA851C1EF1D73400508453 /* priroda_peyzazh_listya_listochki_zheltye_tropa_osen_fon_1680x1050.jpg */,
 				A5239D0D1EEEA63E0036EE54 /* AppDelegate.swift */,
 				A5239D0F1EEEA63E0036EE54 /* ViewController.swift */,
 				A5239D111EEEA63E0036EE54 /* Main.storyboard */,
@@ -232,6 +238,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5CA85211EF1E15600508453 /* noun_953829_cc.png in Resources */,
+				A5CA851D1EF1D73400508453 /* priroda_peyzazh_listya_listochki_zheltye_tropa_osen_fon_1680x1050.jpg in Resources */,
 				A5239D181EEEA63E0036EE54 /* LaunchScreen.storyboard in Resources */,
 				A5239D151EEEA63E0036EE54 /* Assets.xcassets in Resources */,
 				A5239D131EEEA63E0036EE54 /* Main.storyboard in Resources */,
@@ -505,6 +513,7 @@
 				A5239D341EEEA63F0036EE54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A5239D351EEEA63F0036EE54 /* Build configuration list for PBXNativeTarget "Currency converterTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +522,7 @@
 				A5239D371EEEA63F0036EE54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A5239D381EEEA63F0036EE54 /* Build configuration list for PBXNativeTarget "Currency converterUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +531,7 @@
 				A5239D3A1EEEA63F0036EE54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
